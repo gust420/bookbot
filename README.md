@@ -1,2 +1,2 @@
 # bookbot
-My firts repository that i made myself
+My first repository that i made myself
